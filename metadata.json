@@ -1,0 +1,6 @@
+{
+  "name": "Solar Systems War",
+  "description": "Videojuego de supervivencia espacial en 2D en el planeta Aethel con exploración en cuadrícula de 100x100, búnker seguro y unidad K.I.T.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
